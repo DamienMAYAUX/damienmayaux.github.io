@@ -9,7 +9,7 @@
 
 main:
   - title: "About"
-    url: /about
+    url: /
     
   - title: "About"
     url: /assets/files/cv_Damien_MAYAUX.pdf
