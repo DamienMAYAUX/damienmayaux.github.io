@@ -12,7 +12,7 @@ main:
     url: /
     
   - title: "CV"
-    url: /assets/files/CV_Damien_MAYAUX.pdf
+    url: /files/CV_Damien_MAYAUX.pdf
 
   - title: "Research"
     url: /research/
