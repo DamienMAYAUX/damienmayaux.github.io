@@ -23,14 +23,14 @@ repository               : "damienmayaux.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "profile_picture.png"
+  name             : "Damien Mayaux"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Postdoctoral researcher"
+  location         : "Paris, France"
+  employer         : "Université Paris Dauphine - PSL"
   uri              : # URL
-  email            : "none@example.org" 
+  # email            : "damien.mayaux@dauphine.psl.eu" 
 
   # Academic websites
   academia         : # URL
@@ -86,10 +86,12 @@ author:
 publication_category:
   # books:
   #  title: 'Books'
-  manuscripts:
+  published_articles:
     title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+  working_papers:
+    title: 'Working papers'
+  work_in_progress:
+    title: 'Work in Progress'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
@@ -227,12 +229,12 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+ # portfolio:
+ #   output: true
+ #   permalink: /:collection/:path/
+ # talks:
+ #   output: true
+ #   permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -274,22 +276,22 @@ defaults:
       share: true
       comments: true
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+  # - scope:
+  #    path: ""
+  #    type: portfolio
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    share: true
+  #    comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  #- scope:
+  #    path: ""
+  #    type: talks
+  #  values:
+  #    layout: talk
+  #    author_profile: true
+  #    share: true
 
 
 # Sass/SCSS
