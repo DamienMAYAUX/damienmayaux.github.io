@@ -11,8 +11,8 @@ main:
   - title: "About"
     url: /
     
-  - title: "About"
-    url: /assets/files/cv_Damien_MAYAUX.pdf
+  - title: "CV"
+    url: /assets/files/CV_Damien_MAYAUX.pdf
 
   - title: "Research"
     url: /research/
