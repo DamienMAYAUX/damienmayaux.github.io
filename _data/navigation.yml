@@ -14,8 +14,8 @@ main:
   - title: "CV"
     url: /files/CV_Damien_MAYAUX.pdf
 
-#  - title: "Research"
-#    url: /research/
+  - title: "Research"
+    url: /research/
 
 #  - title: "Teaching"
 #    url: /teaching/    
