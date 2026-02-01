@@ -12,6 +12,6 @@ paperurl: 'https://www.insee.fr/en/statistiques/fichier/8679062/04_ES547_Frick-e
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 Co-authors: 
-<a href="https://kmfrick.github.io/>Kevin M. Frick</a>, 
-<a href="https://yaganhazard.github.io/>Yagan Hazard</a>, 
-<a href="https://sites.google.com/view/thomaszuber/accueil>Thomas Zuber</a>
+[Kevin M. Frick]{https://kmfrick.github.io/}, 
+[Yagan Hazard]{https://yaganhazard.github.io/}, 
+[Thomas Zuber]{https://sites.google.com/view/thomaszuber/accueil}
