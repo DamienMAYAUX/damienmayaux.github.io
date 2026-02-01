@@ -11,7 +11,7 @@ permalink: /publication/wip_food_vouchers_heathly_sustainable_eating
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 Co-authors: 
-[Bénédicte Apouey]{https://sites.google.com/view/benedicteapoueylieven-english/en-fr}, 
-[Ondine Berland]{https://sites.google.com/view/ondine-berland}, 
-[Simon Briole]{https://simonbriole.wordpress.com/}
+[Bénédicte Apouey](https://sites.google.com/view/benedicteapoueylieven-english/en-fr), 
+[Ondine Berland](https://sites.google.com/view/ondine-berland), 
+[Simon Briole](https://simonbriole.wordpress.com/)
 
