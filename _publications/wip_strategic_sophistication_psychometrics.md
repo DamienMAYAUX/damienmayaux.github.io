@@ -10,4 +10,6 @@ permalink: /publication/wip_strategic_sophistication_psychometrics
 # paperurl: 'https://academicpages.github.io/files/paper3.pdf'
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
-Co-authors: Sibilla Di Guida, Luca Polonio
+Co-authors: 
+<a href="https://sites.google.com/site/sibilladiguida/>Sibilla Di Guida</a>, 
+<a href="https://scholar.google.it/citations?user=d0KS4KsAAAAJ&hl=en>Luca Polonio</a>
