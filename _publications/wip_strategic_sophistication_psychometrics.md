@@ -3,7 +3,7 @@ title: "When Game Theory Meets Psychometrics: Measuring Strategic Sophistication
 collection: publications
 category: work_in_progress
 permalink: /publication/wip_strategic_sophistication_psychometrics
-# excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+# excerpt: ''
 # date: 
 # venue: 
 # slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
