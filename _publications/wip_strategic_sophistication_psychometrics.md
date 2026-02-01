@@ -1,5 +1,5 @@
 ---
-title: "When Game Theory Meets Psychometrics: Measuring Strategic SOphistication Across Games"
+title: "When Game Theory Meets Psychometrics: Measuring Strategic Sophistication Across Games"
 collection: publications
 category: work_in_progress
 permalink: /publication/wip_strategic_sophistication_psychometrics
@@ -10,4 +10,4 @@ permalink: /publication/wip_strategic_sophistication_psychometrics
 # paperurl: 'https://academicpages.github.io/files/paper3.pdf'
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
-
+Co-authors: Sibilla Di Guida, Luca Polonio
