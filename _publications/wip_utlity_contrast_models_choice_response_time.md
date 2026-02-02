@@ -3,7 +3,7 @@ title: "Utility and Contrast in Models of Choice and Response Times"
 collection: publications
 category: work_in_progress
 permalink: /publication/wip_utility_contrast_models_choice_response_time
-excerpt: 'How can we use models of choice and response times from mathematical psychology to measure choice utility? A theoretical investigation with some econometric implications' 
+excerpt: 'How can we use the models of choice and response times from mathematical psychology to measure choice utility? A theoretical investigation with some econometric implications' 
 # date: 
 # venue: 'GitHub Journal of Bugs'
 # paperurl: 'https://academicpages.github.io/files/paper3.pdf'

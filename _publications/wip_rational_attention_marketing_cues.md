@@ -10,4 +10,4 @@ excerpt: 'A model of consumer choice in presence of marketing cues that can be (
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 # **(draft coming soon)**
 ---
-Single author (draft coming soon)
+Single author **(draft coming soon)**
