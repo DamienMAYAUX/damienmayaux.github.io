@@ -35,10 +35,10 @@
     </h2>
     
     {% if post.coauthors %}
-      {% assign coauthors = post.coauthors | markdownify %}
-      <p>with {{ coauthors }}</p>
+      {% assign coauthors = 'with '.concat(post.coauthors) | markdownify %}
+      <p>{{ coauthors }}</p>
     {% else %}
-      <p>single author</p>
+      <p>Single author</p>
     {% endif %}
     
     {% if post.read_time %}
