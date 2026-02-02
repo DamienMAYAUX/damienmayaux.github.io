@@ -9,4 +9,4 @@ excerpt: 'How can we use the models of choice and response times from mathematic
 # paperurl: 'https://academicpages.github.io/files/paper3.pdf'
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
-Single author
+
