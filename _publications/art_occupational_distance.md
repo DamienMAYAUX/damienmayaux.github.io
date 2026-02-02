@@ -3,7 +3,7 @@ title: "Skill Distance Between Occupations and Post‑Training Professional Tran
 collection: publications
 category: published_articles
 permalink: /publication/art_occupational_distance
-excerpt: 'Using deep learning techniques on a large corpus of job vacancies to obtain a 20-dimensional representation of occupations that captures how hard it is to reconvert from one to another, with application to the evaluation of training programs for jobseekers'
+excerpt: 'Create a representation of occupations that captures how hard it is to reconvert from one to another using deep learning and a corpus of job vacancies, with application to the evaluation of training programs for jobseekers'
 # excerpt: 'Does vocational training help correct structural imbalances in the labour market? We propose a new measure of the skills distance between occupations, obtained by fine-tuning a large language model on a sample of job offers. Using this method, we demonstrate that the "return to employment" differential between jobseekers with and without training is driven by a reallocation of workers towards occupations that are very different from their previous posts in terms of the skills required. From a purely reallocative perspective, however, the return to employment differential associated with vocational training does not appear to be driven by more jobseekers moving to occupations where employers are struggling to recruit.'
 date: '2025-12-15'
 venue: 'Economics and Statistics / Economie et Statistique'

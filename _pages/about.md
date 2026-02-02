@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at the [Université Paris Dauphine](https://dauphine.psl.eu/en/).
+I am postdoctoral researcher at the [Université Paris Dauphine](https://dauphine.psl.eu/en/).
 
 My research lies at the intersection of behavioural economics and industrial organization, with applications to digital economics and food consumption.
 

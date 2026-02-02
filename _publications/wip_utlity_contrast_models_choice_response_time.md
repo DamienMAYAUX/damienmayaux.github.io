@@ -3,7 +3,7 @@ title: "Utility and Contrast in Models of Choice and Response Times"
 collection: publications
 category: work_in_progress
 permalink: /publication/wip_utility_contrast_models_choice_response_time
-# excerpt: 'This paper is about a famous math equation, $$E=mc^2$$' 
+# excerpt: '' 
 # date: 
 # venue: 'GitHub Journal of Bugs'
 # paperurl: 'https://academicpages.github.io/files/paper3.pdf'
