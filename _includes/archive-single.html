@@ -81,7 +81,8 @@
     {% endif %}
 
     {% if post.coauthors %}
-      <p>{{ post.coauthors }}</p>
+      {% assign coauthors = post.coauthors | markdownify %}
+      <p>{{ coauthors }}</p>
     {% endif %}
 
   </article>
