@@ -35,7 +35,7 @@
     </h2>
     
     {% if post.coauthors %}
-      {% assign coauthors = 'with '.concat(post.coauthors) | markdownify %}
+      {% assign coauthors = 'with ' + post.coauthors | markdownify %}
       <p>{{ coauthors }}</p>
     {% else %}
       <p>Single author</p>
