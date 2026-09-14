@@ -1,0 +1,5 @@
+# Normalize line endings to LF for all text files, regardless of OS
+* text=auto eol=lf
+
+# Diff/merge Jupyter notebooks as text (still line-ending normalized above)
+*.ipynb text
