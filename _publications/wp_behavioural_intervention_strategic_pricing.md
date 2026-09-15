@@ -10,6 +10,7 @@ excerpt: 'Why prices should not be overlooked when promoting sustainable product
 # venue: 'GitHub Journal of Bugs'
 paperurl: 'https://damienmayaux.github.io/files/Behavioural_Interventions_Under_Strategic_Pricing.pdf'
 paper_note: "(PhD thesis version)"
+conferences: "ADRES 2024, REECAP 2023, FAERE 2023, EEA 2023, AFSE 2023, JMA 2022"
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 **(new draft coming soon)**

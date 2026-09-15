@@ -57,6 +57,10 @@ layout: default
           <p>Paper available upon request</p>
         {% endif %}
 
+        {% if page.conferences %}
+          <p><strong>Presented at:</strong> {{ page.conferences }}</p>
+        {% endif %}
+
         {% if page.citation %}
           <p style="font-size: smaller">Recommended citation: {{ page.citation }}</p>
         {% endif %}
