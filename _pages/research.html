@@ -15,10 +15,11 @@ author_profile: true
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
+    {% assign cat_posts = site.publications | where: "category", category[0] %}
+    {% assign ordered_posts = cat_posts | where_exp: "p", "p.order" | sort: "order" %}
+    {% assign unordered_posts = cat_posts | where_exp: "p", "p.order == nil" | reverse %}
+    {% assign category_posts = ordered_posts | concat: unordered_posts %}
+    {% for post in category_posts %}
       {% unless title_shown %}
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}

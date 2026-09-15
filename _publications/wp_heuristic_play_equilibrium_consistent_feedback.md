@@ -2,6 +2,7 @@
 title: "Heuristic Play Through Equilibrium-Consistent Feedback"
 collection: publications
 category: working_papers
+order: 3
 permalink: /publication/wp_heuristic_play_equilibrium_consistent_feedback
 coauthors: "[Sibilla Di Guida](https://sites.google.com/site/sibilladiguida/), 
 [Davide Marchiori](https://davide-marchiori.vercel.app/),

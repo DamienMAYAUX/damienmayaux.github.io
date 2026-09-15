@@ -2,10 +2,11 @@
 title: "Auditing E-Commerce Interfaces With Browser-Based Field Experiments: A Method to Assess Effects of Visual Elements on Consumer Behavior"
 collection: publications
 category: working_papers
+order: 7
 permalink: /publication/wp_auditing_ecommerce_interfaces_with_browser_field_experiments
-coauthors: "Chiara Belletti, 
-Bruno Chaves Ferreira, 
-Calvin Sean Pan"
+coauthors: "[Chiara Belletti](https://chiarabelletti.github.io/), 
+[Bruno Chaves Ferreira](https://acss-dig.psl.eu/fr/equipe/bruno-chaves-ferreira), 
+[Calvin Sean Pan](https://www.linkedin.com/in/calvinpan/)"
 excerpt: 'A browser-extension method for regulators to audit the effects of visual interface elements (dark patterns, clutter, endorsement cues) on consumers from the live e-commerce website, applied to a major online travel agency'
 # date: 2026-09-01
 # venue: 'ACM CHI'

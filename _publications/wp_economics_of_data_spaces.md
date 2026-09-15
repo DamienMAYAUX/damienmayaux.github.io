@@ -2,8 +2,9 @@
 title: "The Economics of Data Spaces: Inter-Platform Externalities and Governance"
 collection: publications
 category: working_papers
+order: 5
 permalink: /publication/wp_economics_of_data_spaces
-coauthors: "Doriani Lingga"
+coauthors: "[Doriani Lingga](https://sites.google.com/view/doriani-lingga)"
 excerpt: 'Data spaces let independent platforms share data under common rules, but these rules rarely address business questions. We show that a monopolist may be socially preferable to a decentralized approach and we propose governance mechanisms that beat this benchmark.'
 #date: 2024-02-17
 #venue: 'GitHub Journal of Bugs'
