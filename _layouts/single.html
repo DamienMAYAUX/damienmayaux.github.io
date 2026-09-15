@@ -44,7 +44,7 @@ layout: default
         </header>
       {% endunless %}
 
-      <section class="page__content" itemprop="text">
+      <section class="page__content" itemprop="text"{% if page.collection == 'publications' %} style="margin-top: 1.5em;"{% endif %}>
         {{ content }}
 
         {% if page.paperurl or page.slidesurl or page.bibtexurl %}
