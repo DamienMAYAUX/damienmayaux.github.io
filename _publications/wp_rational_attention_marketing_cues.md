@@ -9,7 +9,7 @@ excerpt: 'A model of consumer choice in presence of marketing cues that can be (
 # venue: 'GitHub Journal of Bugs'
 # paperurl: 'https://academicpages.github.io/files/paper3.pdf'
 available_upon_request: true
-conferences: "ADRES 2026, SPUDM 2025, REECAP 2024, AFSE 2024, JMA 2024, Doctorissimes 2024, DICE Empirical IO Workgroup, PSE Behaviour Workgroup (design)"
+conferences: "ADRES 2026, SPUDM 2025, AFREN 2025, REECAP 2024, IAREP/SABE 2024, TILTing Perspectives 2024, ASFEE 2024, AFSE 2024, JMA 2024, Doctorissimes 2024, PSE Behaviour Workgroup (design)"
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 **(draft coming soon)**
